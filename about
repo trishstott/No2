@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Fashion and Textiles</title>
+  <title>About</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -35,8 +35,8 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#html_index.asp">Home</a></li>
-        <li class="active"><a href="#html_about.asp">About</a></li>
+        <li class="active"><a href="index.html">Home</a></li>
+        <li class="active"><a href="about.html">About</a></li>
         <li class="active"><a href="#html_gallery.asp">Gallery</a></li>
         <li class="active"><a href="#html_Contact.asp">Contact</a></li>
       </ul>
